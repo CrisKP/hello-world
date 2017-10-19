@@ -3,6 +3,6 @@ https://guides.github.com/activities/hello-world/
 
 This GitHub tutorial explains branching. 
 
-Lines 4 and 6 were written using the readme-edits branch. Lines 1 and 2 were added automatically when initiating with a readme file using the name of the repo and the description.
+The firts two lines were added automatically by initiating the repo with a readme file. It used the name of the repo and the description. The next two lines were added while in the readme-edits branch.
 
 
